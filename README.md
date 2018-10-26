@@ -1,5 +1,5 @@
 # BazZy's doom-emacs config
-1. Install develop branch of doom-emacs
+1. Install [develop branch of doom-emacs](https://github.com/hlissner/doom-emacs/tree/develop)
 2. Run `make quickstart`
 3. Follow the doom-emacs README.md instructions to setup MacOS fonts
 4. Clone this repo to ~/.doom.d
