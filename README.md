@@ -6,6 +6,6 @@
 5. Update config quite frequently via `make` command in the ~/.emacs.d
 
 # Tips
-Use the ![doom-emacs author's
+Use the [doom-emacs author's
 config](https://github.com/hlissner/doom-emacs-private) as a reference for
 configs and keybindings
